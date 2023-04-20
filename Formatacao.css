@@ -1,0 +1,13 @@
+
+table, tr, td{
+	border:#000 solid 1px;
+	padding:0px;
+	text-align: center;
+    width: 50% !important; /*Importante manter o !important rs */
+    margin: auto;
+	}
+	#menu{ background:#DCDCDC;padding: 18px; text-align: center;}
+
+	#lista{width: 600px; margin: 0 auto; background:#FFA07A;}
+
+
